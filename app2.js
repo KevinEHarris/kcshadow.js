@@ -1,9 +1,9 @@
-//if (window.jQuery) {
-//    alert('jQuery loaded');
-//}
-//else {
-//    alert('jQuery not loaded');
-//}
+if (window.jQuery) {
+    alert('jQuery loaded');
+}
+else {
+    alert('jQuery not loaded');
+}
 
 // Create a jQuery object from the DOM Document Object
 console.log($(document));
